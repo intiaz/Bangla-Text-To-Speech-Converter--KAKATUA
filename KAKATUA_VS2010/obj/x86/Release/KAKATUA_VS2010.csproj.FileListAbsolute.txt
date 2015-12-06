@@ -1,0 +1,30 @@
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\bin\Release\KAKATUA_VS2010.exe
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\bin\Release\KAKATUA_VS2010.pdb
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\bin\Release\irrKlang.NET4.dll
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA.About_US.resources
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA.BODY.resources
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.Properties.Resources.resources
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.exe
+c:\users\salsabil\documents\visual studio 2010\Projects\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.pdb
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.exe
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.pdb
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\bin\Release\KAKATUA_VS2010.exe
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\bin\Release\KAKATUA_VS2010.pdb
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA.BODY.resources
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.Properties.Resources.resources
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\GenerateResource.read.1.tlog
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\obj\x86\Release\GenerateResource.write.1.tlog
+K:\Documents and Settings\ASHIK\Desktop\TEST\kaka\KAKATUA_VS2010\KAKATUA_VS2010\bin\Release\irrKlang.NET4.dll
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.exe
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.pdb
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\bin\Release\KAKATUA_VS2010.exe
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\bin\Release\KAKATUA_VS2010.pdb
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\bin\Release\irrKlang.NET4.dll
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\obj\x86\Release\KAKATUA.BODY.resources
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.Properties.Resources.resources
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.csproj.GenerateResource.Cache
+F:\WORK\ODESK\Bangla_Text_To_Speech_converter\Text to speech Bangla\KAKATUA_VS2010\obj\x86\Release\KAKATUA_VS2010.csprojResolveAssemblyReference.cache
